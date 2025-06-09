@@ -1,5 +1,5 @@
 ### Hi, I'm Linh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-## Your short description
+## short description
 - 🔭 I’m currently working on - Ho Chi Minh City, Viet Nam.
 - 🌱 I’m currently position - Full-Stack Developer.
 ## Connect with me:
